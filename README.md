@@ -2,9 +2,9 @@
 
 # Çalıştırmak için
 
-1 - Klasörü terminal içerisinde açın \n
-2 - Gerekli modulleri indirmek için "bun i" veya "npm i" yazın
-3 - Ardından "bun run dev" yada "npm run dev" yazın
+1 - Klasörü terminal içerisinde açın <br />
+2 - Gerekli modulleri indirmek için "bun i" veya "npm i" yazın <br />
+3 - Ardından "bun run dev" yada "npm run dev" yazın <br />
 
 not: npm veya bun'ın bilgisayarda kurulu olması gerekiyor.
 
