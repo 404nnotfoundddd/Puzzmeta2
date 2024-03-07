@@ -13,5 +13,5 @@ not: npm veya bun'ın bilgisayarda kurulu olması gerekiyor.
 - Düzenli, okunaklı, hızlı ve type safety sql sorguları için Drizzle orm (https://orm.drizzle.team/)
 - API istekleri için normal api routelarına göre daha fazla type safety sağlayan TRPC (https://trpc.io/docs/server/context)
 - Neon Postgresql (https://neon.tech/) serverless database için
-- State yönetimi için Jotai
+- State yönetimi için Jotai (https://jotai.org/)
 - Web stili için Tailwind
