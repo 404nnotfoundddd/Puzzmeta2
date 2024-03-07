@@ -14,4 +14,4 @@ not: npm veya bun'ın bilgisayarda kurulu olması gerekiyor.
 - API istekleri için normal api routelarına göre daha fazla type safety sağlayan TRPC (https://trpc.io/docs/server/context)
 - Neon Postgresql (https://neon.tech/) serverless database için
 - State yönetimi için Jotai (https://jotai.org/)
-- Web stili için Tailwind
+- Web stili için Tailwind (https://tailwindcss.com/)
