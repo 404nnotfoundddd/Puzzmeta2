@@ -1,5 +1,7 @@
 # Vercel Link
 
+https://puzzmeta2-q3t9fxr0b-404s-projects.vercel.app/
+
 # Çalıştırmak için
 
 1 - Klasörü terminal içerisinde açın <br />
